@@ -10,4 +10,7 @@ We are going to discuss Multi-Class classification topics used in deep neural ne
 3. Install all required Libraries like Tensorflow, keras, Matplotlib.
 4. That's it you are good to go. Open jupyter notebook and run all cells and check out the implementation.
 
+### Remainder:
+Note that all neural networks are referred as Artificial Neural Networks(ANN). The neural networks with more than one hidden layer are called Deep Neural Networks(DNN). Convolutional Neural Networks(CNN) are mainly used in image processing.
+
 > Code is provided along with comments :)
