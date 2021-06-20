@@ -2,7 +2,7 @@
 
 We are going to discuss Multi-Class classification topics used in deep neural networks and how to implement them. 
 > Topics used in this Repo are Softmax function, Multiclass Cross entropy and multi-class model, neural network model
-> To get a breif overview of these topics above, take a look at [medium]()
+> To get a breif overview of these topics above, take a look at [medium](https://naveen-varma.medium.com/multiclass-classification-using-deep-neural-networks-p-3-d2432cc568c9)
 
 ## Code Excecution:
 1. Download the Multi_class_classification_neural_networks.ipynb file from this repo.
